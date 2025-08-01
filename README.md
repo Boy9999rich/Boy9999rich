@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I am Rich 👋</h1>
-<h3 align="center"> I am .NET backend va Angular frontend Developer </h3>
+<h3 align="center"> I am .NET backend and Angular frontend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Boy9999rich&label=Profile%20views&color=0e75b6&style=flat" alt="Boy9999rich" />
