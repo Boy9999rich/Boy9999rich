@@ -12,7 +12,9 @@
 ### 🧑‍💻 About me
 - 💼 I am working now on LearningCenterPlatform
 - 📚 I am learning Angular 17 Technology
-- 📫 Bog‘lanish: **boymurodmamarajapov1@gmail.com**
+- 📫 Email: **boymurodmamarajapov1@gmail.com**
+- 📫 Telegram: **@Rich999999999999999**
+
 
 ---
 
