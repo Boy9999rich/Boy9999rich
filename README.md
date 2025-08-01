@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About me
-- 💼 I am working now on LearningCenterPlatform
+- 💼 I am working now on LearningCenterPlatform and CarRentalSystem
 - 📚 I am learning Angular 17 Technology
 - 📫 Email: **boymurodmamarajapov1@gmail.com**
 - 📫 Telegram: **[@Rich999999999999999](https://t.me/Rich999999999999999)**
@@ -46,9 +46,10 @@
 ### 📌 Recommended projects
 
 - [LearningPlatform](https://github.com/Boy9999rich/LearningPlatform) — .NET + Based on Clean Architecture
-- [EventManagement](https://github.com/Boy9999rich/EventManagement) — ASP.NET MVC project
 - [CarRentalSystem](https://github.com/Boy9999rich/CarRentalSystem) — Planning and booking system
----
+- [CarRentalSystem](https://github.com/Boy9999rich/ConnectFlow) — User and group management system
+- [CarRentalSystem](https://github.com/Boy9999rich/MusicCrud) — Information such as the title of the music, date, and composer
+- [CarRentalSystem](https://github.com/Boy9999rich/ToDoList) — Integration with Angular frontend via REST API
 
 ### 🏆 Achievements
 
