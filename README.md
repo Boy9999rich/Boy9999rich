@@ -47,9 +47,9 @@
 
 - [LearningPlatform](https://github.com/Boy9999rich/LearningPlatform) — .NET + Based on Clean Architecture
 - [CarRentalSystem](https://github.com/Boy9999rich/CarRentalSystem) — Planning and booking system
-- [CarRentalSystem](https://github.com/Boy9999rich/ConnectFlow) — User and group management system
-- [CarRentalSystem](https://github.com/Boy9999rich/MusicCrud) — Information such as the title of the music, date, and composer
-- [CarRentalSystem](https://github.com/Boy9999rich/ToDoList) — Integration with Angular frontend via REST API
+- [ConnectFlow](https://github.com/Boy9999rich/ConnectFlow) — User and group management system
+- [MusicCrud](https://github.com/Boy9999rich/MusicCrud) — Information such as the title of the music, date, and composer
+- [ToDoList](https://github.com/Boy9999rich/ToDoList) — Integration with Angular frontend via REST API
 
 ### 🏆 Achievements
 
