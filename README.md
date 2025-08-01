@@ -13,7 +13,7 @@
 - 💼 I am working now on LearningCenterPlatform
 - 📚 I am learning Angular 17 Technology
 - 📫 Email: **boymurodmamarajapov1@gmail.com**
-- 📫 Telegram: **@Rich999999999999999**
+- 📫 Telegram: **[@Rich999999999999999](https://t.me/Rich999999999999999)**
 
 
 ---
